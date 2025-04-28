@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm I,m Special force</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shitdogg&layout=compact)
