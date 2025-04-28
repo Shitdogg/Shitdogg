@@ -1,6 +1,7 @@
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Backend+Developer.;Falling,+learning,+and+moving+forward.;Still+standing,+still+coding." alt="Typing SVG" />
 
-## 📊 GitHub Stats
 
+## 🩸 Wounds Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shitdogg&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
