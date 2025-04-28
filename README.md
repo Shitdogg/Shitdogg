@@ -14,29 +14,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- การจัดเรียงสถิติและกราฟให้อยู่ในบรรทัดเดียวกัน -->
+<h3 align="left">📊 GitHub Stats</h3>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <!-- สถิติจาก GitHub (ธีม tokyonight) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shitdogg&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
 
 
+  <!-- สถิติ Top Languages (ธีม tokyonight) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shitdogg&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+</div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shitdogg&layout=compact)
-
-## 💻 สถิติจาก GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shitdogg&show_icons=true&count_private=true)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shitdogg&theme=tokyonight)
-
-## 📝 การทำงานและกิจกรรม
+<!-- ## 📝 การทำงานและกิจกรรม
 
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Shitdogg&theme=dracula)
+-->
 
-
-## ⏳ Wakatime Stats
+<!-- ## ⏳ Wakatime Stats
 
 ![Wakatime Stats](https://wakatime.com/share/@<your_username>/<your_wakatime_graph>.svg)
-
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
